@@ -128,19 +128,3 @@ Make sure you have installed:
 - **Question Management:** Add questions dynamically
 - **Results:** Store and display user quiz results
 
----
-
-## 📸 Screenshots
-_Add screenshots or demo GIFs here once available._
-
----
-
-## 🧾 License
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Author
-**Om A Habib**  
-📧 [Omhabib1234@gmail.com](mailto:Omhabib1234@gmail.com)  
-💼 [GitHub Profile](https://github.com/)
